@@ -28,6 +28,4 @@ I’m currently preparing for a Software Engineering Apprenticeship in 2026, str
 
 Problem decomposition, debugging, systems thinking, real-world data and building tools that help real people.
 
----
-
 Always learning.
