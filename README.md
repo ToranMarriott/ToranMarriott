@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I’m Toran 👋  
 
-<!--
-**ToranMarriott/ToranMarriott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m transitioning into software engineering after leading product-led engineering teams as a non-technical Engineering Manager. Working closely with software and data engineers sparked a deep curiosity about the technical craft itself - and I’ve been building ever since.
 
-Here are some ideas to get you started:
+I’m currently preparing for a Software Engineering Apprenticeship in 2026, strengthening my foundations through hands-on projects and computer science study.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+- 🌊 River Levels App (in progress)  
+  A web app using Environment Agency APIs to surface real-time river data for paddlers. Focused on working with asynchronous data, handling imperfect datasets, and designing for real users.
+
+- 🛒 Gear-to-Go  
+  Kayaking gear rental cart prototype exploring state management, validation, and totals logic.
+
+- 🔐 Password Generator  
+  Configurable password generator with clipboard integration and input handling.
+
+- 📏 Unit Converter  
+  Interactive multi-unit converter focused on clean logic and UI feedback.
+
+### 🧠 Currently Learning
+
+- JavaScript (ES6+), DOM manipulation, asynchronous programming  
+- Web fundamentals (HTML, CSS, accessibility, responsive layouts)  
+- Computer science foundations (CS50)
+
+### 💡 Interests
+
+Problem decomposition, debugging, systems thinking, real-world data and building tools that help real people.
+
+---
+
+Always learning.
