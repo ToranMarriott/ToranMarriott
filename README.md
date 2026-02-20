@@ -6,16 +6,16 @@ I’m currently preparing for a Software Engineering Apprenticeship in 2026, str
 
 ### 🚀 Projects
 
-- 🌊 River Levels App (in progress)  
+- 🌊 River Levels App (in progress)\
   A web app using Environment Agency APIs to surface real-time river data for paddlers. Focused on working with asynchronous data, handling imperfect datasets, and designing for real users.
 
-- 🛒 Kayak Gear Rental (gear-to-go)  
+- 🛒 Kayak Gear Rental (gear-to-go)\
   Kayaking gear rental cart prototype exploring state management, validation, and totals logic.
 
-- 🔐 Password Generator (password-generator)
+- 🔐 Password Generator (password-generator)\
   Configurable password generator with clipboard integration and input handling.
 
-- 📏 Unit Converter (unit-converter)  
+- 📏 Unit Converter (unit-converter)\
   Interactive multi-unit converter focused on clean logic and UI feedback.
 
 ### 🧠 Currently Learning
