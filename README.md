@@ -1,6 +1,6 @@
 Hi, I’m Toran 👋  
 
-I’m transitioning into software engineering after leading product-led engineering teams as a non-technical Engineering Manager. Working closely with software and data engineers sparked a deep curiosity about the technical craft itself - and I’ve been building ever since.
+I’m transitioning into software engineering after leading product-led engineering teams as a non-technical Engineering Manager. Working closely with software and data engineers sparked a deep curiosity about what goes on behind the scenes - and I’ve been building ever since.
 
 I’m currently preparing for a Software Engineering Apprenticeship in 2026, strengthening my foundations through hands-on projects and computer science study.
 
