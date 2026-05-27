@@ -1,9 +1,5 @@
 Hi, I'm Toran 👋
 
-I'm transitioning into software engineering after leading product-led engineering teams as a non-technical Engineering Manager. Working closely with software and data engineers made me really curious about what goes on behind the scenes. Eventually I stopped watching and started building.
-
-I'm currently interviewing for Software Engineering Apprenticeships and strengthening my foundations through hands-on projects and computer science study.
-
 ### 🚀 Pinned Projects
 
 - 🌊 **[PaddleGauge](https://github.com/ToranMarriott/paddle-guage)** — [Live demo](https://paddleguage.netlify.app/)
